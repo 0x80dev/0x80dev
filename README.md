@@ -5,8 +5,8 @@ i started developing and tinkering at the age of 9. with python and windows xp! 
 *   🌍  I'm based in Your wifi
 *   🖥️  See my portfolio at [Change this later](http://a)
 *   🧠  I'm currently learning cyber security
-*   👥  I'm looking to collaborate on Anything really!
-*   💬  Ask me about that im actually  Im secretly a 10x developer...
+*   👥  I'm looking to collaborate on Anything  really!
+*   💬  im  secretly a 10x developer...
 
   ## My stack!
 <p align="left">
