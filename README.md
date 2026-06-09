@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Hey There! I'm Max Giese or 0x80dev</h1>
 
-i started developing and tinkering at the age of 9. with python and windows xp! As of right now I'm focused on college and building my personal skills up and also my autodidact encyclopedia and YouTube channel! Check out my pinned and my repos if your interested!
+i started developing and tinkering at the age of 9. with python and windows xp! As of right now I'm focused on building my personal skills up and also my autodidact encyclopedia and YouTube channel! Check out my pinned and my repos if your interested!
 
 *   🌍  I'm based in Your wifi
 *   🖥️  See my portfolio at [Change this later](http://a)
